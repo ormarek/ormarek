@@ -6,6 +6,7 @@ My name is Marek and I'm a fullstack developer from **🇵🇱 Poland**.
 ## What I use
 
 [![Python](https://img.shields.io/badge/-Python-356995?style=flat-square&logo=python&logoColor=white)]()
+[![Golang](https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=go&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-bfab15?style=flat-square&logo=javascript&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3073BF?style=flat-square&logo=typescript&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)]()

@@ -22,3 +22,6 @@ My name is Marek and I'm a fullstack developer from **🇵🇱 Poland**.
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logoColor=white)]()
 [![BlitzJS](https://img.shields.io/badge/-BlitzJS-5601C1?style=flat-square&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)]()
+
+## Sometimes I'm doing CodeWars for fun in free time
+[![CodeWars](https://www.codewars.com/users/ormarek/badges/large)](https://www.codewars.com/users/ormarek/)

@@ -1,7 +1,7 @@
 # Hi there 👋 It's nice to see you!
 
 Welcome to my profile!  
-My name is Marek and I'm a fullstack developer from **🇵🇱 Poland**.
+My name is Marek and I'm a fullstack developer (mainly frontend, but privately doing some backends too) from **🇵🇱 Poland**.
 
 ## What I use
 

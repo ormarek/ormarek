@@ -1,7 +1,10 @@
-# Hi there 👋 It's nice to see you!
+# Hi there 👋 Welcome on my profile! 
 
-Welcome to my profile!  
-My name is Marek and I'm a fullstack developer (mainly frontend, but privately doing some backends too) from **🇵🇱 Poland**.
+ 
+I'm **Marek**, a fullstack developer (mainly frontend, but privately doing some backends too) from **🇵🇱 Poland**.
+Autodidact. Always hungry for knowledge. Problem solving gives me a lot of satisfaction. Constantly moving forward.
+
+Currently employed at **[Merixstudio](https://merixstudio.com/)**
 
 ## What I use
 

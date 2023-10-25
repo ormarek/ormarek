@@ -10,9 +10,9 @@ const ormarek = {
     from: "Poland",
     code: [JavaScript, TypeScript, Python],
     tools: [React, Redux, Vue, Vuex, NextJS, NestJS, Prisma, Docker, GraphQL, Django, FastAPI],
-    currently: {
-        employedAt: "ALM Services Technology Group",
+    currently: [{
+        company: "ALM Services Technology Group",
         roles: ["Senior JavaScript (Fullstack) Developer", "Team Leader"]
-    }
+    }]
 };
 ```

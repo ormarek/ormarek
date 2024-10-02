@@ -9,7 +9,7 @@ const ormarek = {
     name: "Marek Orłowski",
     from: "Poland",
     code: [JavaScript, TypeScript, Python],
-    tools: [React, Redux, Vue, Vuex, NextJS, NestJS, Prisma, Docker, GraphQL, Django, FastAPI],
+    tools: [React, Redux, Vue, Vuex, NextJS, NestJS, Prisma, TypeORM, Docker, GraphQL, Django, FastAPI, AWS, Terraform],
     currently: [{
         company: "ALM Services Technology Group",
         roles: ["Senior JavaScript (Fullstack) Developer", "Team Leader"]
